@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Demo](#demo)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,13 +14,14 @@
 
 An online dating service for dogs.
 
-### Screenshot
+### Demo
 
-![](./demo/tindog-preview-1680x1025.gif)
+![](./demo/tindog-preview-840x513.gif)
 
 ### Links
 
 - Live Site URL: [TinDog](https://joshberja.github.io/tindog/)
+- YouTube Demo Video: [TinDog YouTube Demo Video](https://youtu.be/6x_7ga20mtw)
 
 ## My process
 
