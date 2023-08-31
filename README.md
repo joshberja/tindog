@@ -12,7 +12,7 @@
 
 ## Overview
 
-An online dating service for dogs.
+An online dating service for dogs. This project is a responsive static website.
 
 ### Demo
 
