@@ -1,0 +1,3 @@
+# Ignore .DS_Stores files
+.DS_Store
+.prettierignore
